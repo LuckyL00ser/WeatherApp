@@ -1,0 +1,29 @@
+{
+  "name": "pgs-frontend",
+  "version": "1.0.0",
+  "description": "App created at workshops.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode=development",
+    "build": "webpack --mode=production"
+  },
+  "author": "Karol Wiater",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.0",
+    "axios": "^0.18.0",
+    "babel-loader": "^8.0.4",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyL00ser/WeatherApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuckyL00ser/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/LuckyL00ser/WeatherApp#readme"
+}
