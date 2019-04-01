@@ -1,5 +1,5 @@
 {
-  "name": "pgs-frontend",
+  "name": "weather-app",
   "version": "1.0.0",
   "description": "App created at workshops.",
   "main": "index.js",
