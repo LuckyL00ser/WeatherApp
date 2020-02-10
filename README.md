@@ -1,2 +1,2 @@
 # WeatherApp
-Simple app made to gather and store weather data about cities created at workshops.
+Simple app made to collect and store weather data about cities created as homework.
